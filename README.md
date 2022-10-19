@@ -1,2 +1,3 @@
 # H-and-M2
- This repo will explore the H&amp;M dataset from Kaggle
+ Team Member:
+ Husain Ghadiali,Guang Yang,Weichu Zou,Tzu-Ching Chou,Lokendra Badgujar
